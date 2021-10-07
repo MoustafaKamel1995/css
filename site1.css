@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.texttitle{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -2cm;
+    margin-top: 0.5cm;}
+h2{
+    text-align: center;
+    color: deepskyblue;
+}
+.id{
+    color: white;
+    text-align: center;
+}
+.adress{
+    color: white;
+    text-align: center;
+    
+}
+.asset
+{
+    color: white;
+    position: relative;
+    text-align: center;
+    left: 14cm;
+    
+}
+select{
+    text-align: center;
+    border-radius: 10cm;
+    position: absolute;
+    left: 16cm;
+    
+}
